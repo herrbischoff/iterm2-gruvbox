@@ -1,6 +1,6 @@
 # iTerm 2 Gruvbox Color Scheme
 
-[Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Installation
 
