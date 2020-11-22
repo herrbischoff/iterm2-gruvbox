@@ -1,14 +1,21 @@
 # iTerm 2 Gruvbox Color Scheme
 
+## Women Empowerment in Zanzibar
+
+Send a little karma down the way and support women empowerment in Zanzibar by
+helping to [fund the local production of reusable female hygiene
+products](https://www.gofundme.com/f/women-empowerment-in-zanzibar). A very
+dear friend of mine runs the project. They were already able to buy hundreds of
+educational books. Sometimes, it takes so little to make a huge impact. If
+you'd like to thank me or support this work, donate. Additionally, any current
+and future sponsoring of my work via GitHub or other channels will flow one
+hundred percent to the NGO.
+
+## About
+
 Complements the [gruvbox](https://github.com/morhetz/gruvbox) Vim colorscheme.
 
 ![Screenshot](screenshot.png)
-
-## Caffeinating
-
-When you find something helpful in here, you could buy me a coffee. I spend a lot of time and effort on curating this list. Keeping me properly caffeinated accelerates things. And it would really make my day. Kindness of strangers and all that. If you can't or won't, no hard feelings. It's available completely free for a reason. Still, it would be awesome.
-
-Patreon: https://www.patreon.com/herrbischoff
 
 ## Installation
 
